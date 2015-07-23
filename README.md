@@ -20,3 +20,7 @@ OT Swizcake is a Joomla template shop for bakeries, cupcakeries, dessert cafes a
 
 ###OT Pistton - Joomla Template
 We are pleased to announce the second theme for April - OT Pistton - Responsive Portfolio Joomla template with K2 content extension supported. We brought...
+
+We recommend: <a href="http://www.omegatheme.com/joomla-responsive-templates">Responsive Joomla Templates</a>, <a href="http://www.omegatheme.com/free-joomla-templates">Free Joomla Templalates</a>, <a href="http://www.omegatheme.com/joomla-virtuemart-templates">Joomla virtuemart templates</a>
+
+
